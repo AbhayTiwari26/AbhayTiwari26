@@ -1,134 +1,58 @@
-# Hi there 👋, I'm Abhay Tiwari
-
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/abhay-cover-mobile.svg">
+    <img src="./assets/abhay-cover.svg" width="100%" alt="Abhay Tiwari. Computer science student, software developer, and problem solver. Build, learn, repeat.">
+  </picture>
 </p>
 
-🎓 I'm a passionate and driven Computer Science student with a strong foundation in **Software Development** and **Data Structures & Algorithms**. I love building solutions to real-world problems and continuously expanding my technical skillset.
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=3393FF&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver" alt="Typing SVG" />
+  <a href="https://github.com/AbhayTiwari26?tab=repositories">Projects</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abhay-tiwari-2a3b74307/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:2k23.cs2314007@gmail.com">Email me</a>
 </p>
 
----
+## Hey, I'm Abhay 👋
 
-### 🌱 What I'm currently up to:
+I'm a computer science student who likes turning complicated problems into useful, straightforward software. I build web apps, experiment with AI, and sharpen my fundamentals with Java, C++, and DSA.
 
--   🔭 I’m currently working on: **A full-stack project using the MERN stack.**
--   📚 I’m currently learning: **Advanced System Design and Cloud Computing concepts.**
--   💬 Ask me about: **Web Development, Java, C++, DSA, or anything tech-related!**
--   ⚡ Fun fact: **I believe every complex problem has a simple, elegant solution.**
+> Every complex problem has a simple, elegant solution.
 
----
+## Selected builds
 
-## 🌐 Connect with me:
+### 01 / [StudyAI](https://github.com/AbhayTiwari26/ai-study-assistant)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhay-tiwari-2a3b74307" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:2k23.cs2314007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
+Turn notes into interactive flashcards and quizzes. Built with React, Express, and Google Gemini. **[Try the live app ↗](https://ai-study-assistant-kappa-black.vercel.app/)**
 
----
+### 02 / [Transformer Digital Twin](https://github.com/AbhayTiwari26/digital_twin_prototype)
 
-## 🚀 My Skillset:
+A prototype for monitoring transformer health with simulated sensor readings, visualizations, and fault alerts. **[Explore the demo ↗](https://digital-twin-prototype.vercel.app/)**
 
-<p align="center">
-  <table style="width:100%; border:none;">
-    <tr style="border:none;">
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /><br>C++
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br>JavaScript
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /><br>HTML
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /><br>CSS
-      </td>
-    </tr>
-    <tr style="border:none;">
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React
-      </td>
-       <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" /><br>Express.js
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
-      </td>
-    </tr>
-    <tr style="border:none;">
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /><br>GitHub
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /><br>VS Code
-      </td>
-      <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /><br>Postman
-      </td>
-       <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /><br>Figma
-      </td>
-    </tr>
-  </table>
-</p>
+### 03 / [AI Interview Copilot](https://github.com/AbhayTiwari26/ai-job-interview-copilot)
 
----
+A Java and JavaScript project exploring AI-assisted interview preparation. **[Open the app ↗](https://ai-job-interview-copilot.vercel.app/)**
 
-## 📈 My Competitive Programming Journey:
+## In the workshop
 
-<p align="center">
-  <a href="https://leetcard.jacoblin.cool/coder_Abhay07?theme=dark&font=Baloo+Bhai&ext=contest" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/coder_Abhay07?theme=dark&font=Baloo+Bhai&ext=contest" alt="Abhay's LeetCode Stats"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.hackerrank.com/profile/2K23_cs2314007" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg-username/practice/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
-  </a>
-</p>
+- **Building:** full-stack applications with React, Node.js, Express, and MongoDB.
+- **Learning:** system design and cloud computing.
+- **Practicing:** data structures and algorithms in Java and C++.
 
----
+## Tools I reach for
 
-## 📊 GitHub Contributions & Stats:
+| Area | Toolkit |
+|:--|:--|
+| **Languages** | Java · C++ · JavaScript |
+| **Front end** | HTML · CSS · React · Tailwind CSS |
+| **Back end & data** | Node.js · Express · MongoDB |
+| **Workflow** | Git · GitHub · Postman · Figma |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayTiwari26&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Abhay's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayTiwari26&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AbhayTiwari26&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+## Beyond the repo
+
+Problem-solving is a habit. Find me on [LeetCode](https://leetcode.com/u/coder_Abhay07/) and [HackerRank](https://www.hackerrank.com/profile/2K23_cs2314007).
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhayTiwari26&color=blue" alt="Profile Views"/>
+  <strong>Have a problem worth solving?</strong><br>
+  <a href="mailto:2k23.cs2314007@gmail.com">Let's talk</a> · <a href="https://github.com/AbhayTiwari26?tab=repositories">Explore more projects</a>
 </p>
-
----
-
-⭐️ Feel free to explore my repositories and drop a ⭐️ if you find something useful or interesting! Your feedback is always welcome.
